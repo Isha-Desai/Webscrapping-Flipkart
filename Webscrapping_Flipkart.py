@@ -1,5 +1,3 @@
-#from the search options of the site- like product name, its description- which is available on the website, and then the image url.
-
 from bs4 import  BeautifulSoup as soup
 from urllib.request import urlopen as uReq
 
