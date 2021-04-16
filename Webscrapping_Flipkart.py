@@ -28,3 +28,4 @@ print("*Product Details: "+description[0].text+"\n")
 co= page_soup.findAll("div",{"class":"CXW8mj"})	
 print("*Image description: "+ co[0].img["src"])
 
+#..................................................END............................................#
